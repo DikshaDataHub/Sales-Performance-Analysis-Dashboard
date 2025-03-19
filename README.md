@@ -69,4 +69,4 @@ Expand medium-sized outlets, as they generate the highest revenue share.
 
 ## SnapShot of Dashboard 
 
-<img width="1246" alt="Image" src="https://github.com/user-attachments/assets/86134ed0-04ad-4a16-9d4c-a45c007d0a1e" />
+<img width="1241" alt="Image" src="https://github.com/user-attachments/assets/cb29357c-cb9c-4aa9-8305-3e7505426a91" />
